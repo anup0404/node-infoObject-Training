@@ -1,0 +1,23 @@
+----------------------------680249184995234718510047
+Content-Disposition: form-data; name=""; filename="pranay.txt"
+Content-Type: text/plain
+
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "1st task uploading file and readind the stream",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "anup kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1"
+  }
+}
+
+----------------------------680249184995234718510047--
